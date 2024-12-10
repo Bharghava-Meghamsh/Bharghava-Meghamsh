@@ -1,6 +1,7 @@
 👋 Hi, I’m @Bharghava-Meghamsh
 
 👀 Interests: Data Analytics, manipulating data
+
 🌱 Currently learning: Python and libraries for data analytics
 💻 Favorite language: Python
 🛠️ Tools: Excel, Python, Power BI, SQL
